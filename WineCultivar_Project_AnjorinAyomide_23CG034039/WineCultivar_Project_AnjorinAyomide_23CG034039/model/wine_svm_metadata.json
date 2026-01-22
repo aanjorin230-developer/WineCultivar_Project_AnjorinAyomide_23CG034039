@@ -1,0 +1,14 @@
+{
+  "model_path": "model\\wine_svm_pipeline.joblib",
+  "best_params": {
+    "classifier__C": 10.0,
+    "classifier__gamma": "scale",
+    "feature_selection__k": "all"
+  },
+  "metrics": {
+    "accuracy": 0.9444444444444444,
+    "precision_macro": 0.9583333333333334,
+    "recall_macro": 0.9333333333333332,
+    "f1_macro": 0.9407407407407407
+  }
+}
